@@ -1,0 +1,6 @@
+1) Iris dataset train model
+https://www.kaggle.com/uciml/iris
+2) dog vs cat 
+https://www.kaggle.com/c/dogs-vs-cats/data
+3) Mom and Dad (Binary Classification)
+3) Your Family image classifier (Multi class single label classification)
