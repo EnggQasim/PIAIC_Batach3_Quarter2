@@ -37,6 +37,31 @@ def function1():
     """
 
 
+# Task2
+def function2():
+    #create 3D array (3,3,3)
+    #must data type should have float64
+    #array value should be satart from 10 and end with 36 (both included)
+    
+    x = np.arange(1,28,dtype=np.float64).reshape((3,3,3))     #wrtie your code here
+
+
+    return x
+    """
+array([[[10., 11., 12.],
+        [13., 14., 15.],
+        [16., 17., 18.]],
+
+       [[19., 20., 21.],
+        [22., 23., 24.],
+        [25., 26., 27.]],
+
+       [[28., 29., 30.],
+        [31., 32., 33.],
+        [34., 35., 36.]]])    
+    """
+
+
 
 
 
